@@ -4,4 +4,5 @@ def fact(n):
         res *= i
     return res
 
+
 print(fact(10))

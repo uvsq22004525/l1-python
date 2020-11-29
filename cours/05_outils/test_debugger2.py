@@ -5,5 +5,6 @@ def max(liste):
             maximum = liste[i]
     return maximum
 
-max([1,4,3,1,3,7])
-max([-1,-3,-4,-2,-6])
+
+max([1, 4, 3, 1, 3, 7])
+max([-1, -3, -4, -2, -6])
